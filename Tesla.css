@@ -1,0 +1,97 @@
+.ben{
+    background-color: white;
+    color: black;
+    
+}
+.tem{
+    background-image: url(model\ 3.jpeg);
+    background-size: cover;
+    height: 900px;
+    background-position: center;    
+}
+.wem{
+    margin-left: 300px;
+    color: black;
+}
+.gem{
+    height: 50px;
+    margin-left: 70px;
+    border-radius: 100%;
+}
+.a1{
+    color: black;
+    margin-left: 30px;
+}
+.a2{
+    color: black;
+    margin-left: 30px;
+    
+}
+.a3{
+    margin-left: 300px;
+}
+.tem2{
+    background-image: url(model\ s.jpeg);
+    background-size: cover;
+    height: 900px;
+    background-position: center;
+    
+}
+.tem3{
+    background-image: url(./model\ x.jpeg);
+    background-size: cover;
+    height: 900px;
+    background-position: center;
+}
+.tem4{
+    background-image: url(./model\ y.jpeg);
+    background-size: cover;
+    height: 900px;
+    background-position: center;
+}
+.tem5{
+    background-image: url(./solar\ panel.jpeg);
+    background-size: cover;
+    height: 900px;
+    background-position: center;
+}
+.tem6{
+    background-image: url(./solar\ roof.jpeg);
+    background-size: cover;
+    height: 900px;
+    background-position: center;
+}
+.men{
+    font-size: 50px;
+}
+.qen{
+    margin-top: 450px;
+    border-radius: 70px;
+     
+}
+.fem1{
+    background-color: rgb(23, 26, 32);
+    color: white;
+    height: 40px;
+    width: 250px;
+    border-color: solid white;
+    border: none;
+    
+}
+.fem2{
+    margin-left: 20px;
+    height: 40px;
+    width: 250px;
+    border-color: white;
+    border: none;
+}
+ a{
+    color: black;
+}
+.tem7{
+    background-image: url(./accessories.jpeg);
+    background-size: cover;
+    height: 900px;
+    background-position: center;
+    
+}
